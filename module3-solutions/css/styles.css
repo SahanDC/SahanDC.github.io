@@ -70,10 +70,17 @@ body {
     font-weight: bold;
 }
 .menu-item-tile {
+    margin-top: 25px;
     margin-bottom: 25px;
 }
 .menu-item-title {
     background-color: rgb(204, 199, 199);
+}
+
+.menu-item-title span {
+    color: brown;
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 .menu-item-detail {
